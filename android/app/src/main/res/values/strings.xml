@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">EchoTag</string>
-    <string name="title_activity_main">EchoTag</string>
-    <string name="package_name">com.echotag.app</string>
-    <string name="custom_url_scheme">com.echotag.app</string>
+    <string name="app_name">SahelMesh</string>
+    <string name="title_activity_main">SahelMesh</string>
+    <string name="package_name">com.SahelMesh.app</string>
+    <string name="custom_url_scheme">com.SahelMesh.app</string>
 </resources>
