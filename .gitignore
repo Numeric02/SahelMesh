@@ -1,0 +1,17 @@
+
+# Dépendances
+node_modules/
+dist/
+android/.gradle/
+android/local.properties
+.DS_Store
+
+# Fichiers de configuration IDE
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Builds
+android/app/build/
