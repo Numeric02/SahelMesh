@@ -1,4 +1,4 @@
-package com.echotag.app;
+package com.sahelmesh.app;
 
 import com.getcapacitor.BridgeActivity;
 
